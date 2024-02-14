@@ -1,0 +1,6 @@
+C:\i-free\LineCounter\LineCounter\bin\Debug\LineCounter.exe.config
+C:\i-free\LineCounter\LineCounter\bin\Debug\LineCounter.exe
+C:\i-free\LineCounter\LineCounter\bin\Debug\LineCounter.pdb
+C:\i-free\LineCounter\LineCounter\obj\Debug\LineCounter.csproj.CoreCompileInputs.cache
+C:\i-free\LineCounter\LineCounter\obj\Debug\LineCounter.exe
+C:\i-free\LineCounter\LineCounter\obj\Debug\LineCounter.pdb
